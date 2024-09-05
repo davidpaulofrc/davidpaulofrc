@@ -2,7 +2,6 @@
 
 **davidpaulofrc/davidpaulofrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Olá, meu nome é **David Paulo**
 - 🔭 Atualmente estou trabalhando com Moodle;
 - 🌱 Estou aprendendo javascript;
