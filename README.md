@@ -5,3 +5,5 @@
 Olá, meu nome é **David Paulo**
 - 🔭 Atualmente estou trabalhando com Moodle;
 - 🌱 Estou aprendendo javascript;
+- Você pode entrar em contato comigo 📫
+- oluapdivad@gmail.com
